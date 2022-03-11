@@ -1,6 +1,6 @@
 # Project 3 - *iOS Twitter Clone*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**iOS Twitter Clone** is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
